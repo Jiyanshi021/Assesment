@@ -6,6 +6,7 @@
 This project implements a complete **object detection pipeline trained entirely from scratch** (no pretrained weights) using a **Faster R-CNN architecture with a custom CNN backbone**. The objective was to design, train, evaluate, and analyze an object detection model on a custom dataset, and to evaluate it based on **accuracy (mAP)**, **inference speed (FPS)**, and **model size**, along with a discussion of accuracy–speed trade-offs.
 The implementation was carried out using **PyTorch** on **Google Colab GPU**.
 
+
 ---
 
 ## Dataset
